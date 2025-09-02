@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Rawda Mohamed<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
----
 
 
 <h3 font-size="20" align="center">🌸Frontend Developer | Web Designer</h3>
----
+
 
 <p align="center">
   <a href="https://github.com/rawdamohamed2/readme-typing-svg">
