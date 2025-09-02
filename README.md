@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rawda Mohamed<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 
-<h3 font-size="20" align="center">🌸Frontend Developer | Web Designer</h3>
+<h3  align="center">🌸Frontend Developer | Web Designer</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
