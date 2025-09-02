@@ -1,12 +1,15 @@
-# Hi, I'm Rawda Mohamed
-
+<h1 align="center">Hi, I'm Rawda Mohamed<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 ---
 
-### 🌸 Frontend Developer | Web Designer  
 
+<h3 font-size="20" align="center">🌸Frontend Developer | Web Designer</h3>
 ---
 
-✨ *I Build Interactive & Modern Web Experiences* ✨  
+<p align="center">
+  <a href="https://github.com/rawdamohamed2/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+Build+Interactive+%26+Modern+Web+Experiences;Frontend+Developer;Computer+Science+Student;Always+Learning+New+Things">
+  </a>
+</p> 
 
 ---
 
