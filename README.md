@@ -3,7 +3,7 @@
 
 <h3 font-size="20" align="center">🌸Frontend Developer | Web Designer</h3>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
   <a href="https://github.com/rawdamohamed2/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+Build+Interactive+%26+Modern+Web+Experiences;Frontend+Developer;Computer+Science+Student;Always+Learning+New+Things">
