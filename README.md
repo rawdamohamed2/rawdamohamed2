@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  📄 <a href="https://drive.google.com/file/d/1czFqChMzvX960R6X1lAEANpS0YpbAhn8/view?usp=drive_link">Check My CV</a> 
+  📄 <a href="https://drive.google.com/file/d/1D6OY74cisxa_5MmFekvar2XYaAnM2_5h/view">Check My CV</a> 
   <br/>
   🌐 <a href="https://rawdamohamed.netlify.app/">View My Portfolio</a>
 </p>
