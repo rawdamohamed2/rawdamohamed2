@@ -22,7 +22,7 @@
 
 ### 📬 Contact & Social:
 <p align="left">
-  <a href="https://linkedin.com/in/your-link https://www.linkedin.com/in/rawda-mohamed-367a77370/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/rawda-mohamed-367a77370/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
   <a href="mailto:rawdamohamedsengab@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
   <a href="https://github.com/rawdamohamed2/"><img src="https://img.icons8.com/color/48/github.png"/></a>
 </p>
